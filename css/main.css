@@ -6,12 +6,12 @@
   margin: 5px 10px;
 }
 
-.section-page-1 .fa-2x{
+.section-page-1 .fa-2x {
   list-style-type:none !important;
   margin: 5px 25px;
 }
 
-.section-page-1 .fa-3x{
+.section-page-1 .fa-3x {
   list-style-type:none !important;
   margin: 5px 25px;
 }
@@ -19,6 +19,19 @@
 #header {
   background-color: #5e7075;
   padding-left: 50px;
-  font-size: 25px;
+  font-size: 20px;
 
+}
+
+.about p {
+  font-size: 19px;
+  margin-left: 175px;
+  margin-right: 175px;
+}
+
+.about h4 {
+  padding-bottom: 10px;
+  border-bottom: 2px dotted grey;
+  margin-left: 550px;
+  margin-right: 550px;
 }
