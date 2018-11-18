@@ -7,12 +7,12 @@
 }
 
 .section-page-1 .fa-2x {
-  list-style-type:none !important;
+  list-style-type: none !important;
   margin: 5px 25px;
 }
 
 .section-page-1 .fa-3x {
-  list-style-type:none !important;
+  list-style-type: none !important;
   margin: 5px 25px;
 }
 
@@ -20,7 +20,14 @@
   background-color: #5e7075;
   padding-left: 50px;
   font-size: 20px;
+}
 
+.project-content p {
+  font-size: 9px;
+}
+
+.project-content a {
+  font-size: 12px;
 }
 
 .about p {
