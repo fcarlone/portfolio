@@ -1,4 +1,5 @@
 .slider .btn {
+  color: rgba(39, 107, 130, 1);
   margin-top: 20px;
 }
 
@@ -16,8 +17,25 @@
   margin: 5px 25px;
 }
 
+.slider .indicators .indicator-item.active {
+  background-color: rgba(39, 107, 130, 1);
+}
+
+.background-gradient {
+  /* background-image: linear-gradient(to bottom right, #2C06FE, #06E7FE); */
+  /* background-image: linear-gradient(to bottom right, teal, #5CFE06); */
+  /* background: linear-gradient(to bottom right, blue, #06E7FE); */
+  /* background: linear-gradient(325deg, rgba(39, 107, 130, 1) 0, rgba(49, 84, 129, 1)); */
+  background: linear-gradient(to right, rgba(39, 107, 130, 1) 0, rgb(119, 146, 182));
+}
+
+.projects-text-color {
+  color: rgba(39, 107, 130, 1);
+}
+
 #header {
-  background-color: #5e7075;
+  /* background-color: #5e7075; */
+  background-color: #4c7caf;
   padding-left: 50px;
   font-size: 20px;
 }
