@@ -7,14 +7,12 @@
   margin: 5px 10px;
 }
 
-.section-page-1 .fa-2x {
-  list-style-type: none !important;
-  margin: 5px 25px;
+.section-screenshot {
+  margin-top: 25%;
 }
 
-.section-page-1 .fa-3x {
-  list-style-type: none !important;
-  margin: 5px 25px;
+.section-screenshot i {
+  padding: 3.75rem;
 }
 
 .slider .indicators .indicator-item.active {
@@ -50,8 +48,9 @@
 }
 
 .about h4 {
-  padding-bottom: 5px;
+  padding-bottom: 10px;
   text-align: center;
+  border: none;
 }
 
 .about .description {
