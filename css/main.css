@@ -50,13 +50,11 @@
 }
 
 .about h4 {
-  padding-bottom: 10px;
-  border-bottom: 2px dotted grey;
-  margin-left: 550px;
-  margin-right: 550px;
+  padding-bottom: 5px;
+  text-align: center;
 }
 
-img {
-  width: 20px;
-  height: 20px;
+.about .description {
+  margin-left: 110px;
+  margin-right: 110px;
 }
